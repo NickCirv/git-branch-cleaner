@@ -1,0 +1,33 @@
+{
+  "name": "git-branch-cleaner",
+  "version": "1.0.0",
+  "description": "Find and safely delete merged, gone, and stale git branches. Interactive multi-select. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "git-branch-cleaner": "./index.js",
+    "gbc": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "git",
+    "branch",
+    "cleanup",
+    "developer-productivity",
+    "git-workflow"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/git-branch-cleaner.git"
+  },
+  "homepage": "https://github.com/NickCirv/git-branch-cleaner#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/git-branch-cleaner/issues"
+  }
+}
