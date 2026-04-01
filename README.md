@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # git-branch-cleaner
 
 Find and safely delete merged, gone, and stale git branches. Interactive multi-select. Zero dependencies.
